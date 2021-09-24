@@ -1,0 +1,40 @@
+body{
+    background-image: url("4.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+span
+{
+  font-size: 30px;
+}
+
+.emoji
+{
+  font-size: 80px;
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family:'Bebas Neue', cursive;
+    border-radius: 10px;
+    letter-spacing: 10px;
+  }
+
+  #camera , #result
+{
+  border: 2px dashed orange;
+  width: 350px;
+  height: 300px; 
+}
+
+
+.a
+{
+  color: green;
+  background-color: white;
+  border-radius: 10px;
+  width: 100px;
+}
+
